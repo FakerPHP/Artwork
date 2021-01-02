@@ -30,7 +30,7 @@
 All rights reserved, but with the following extra conditions:
 
 - It is **OK** to use the FakerPHP logo in the following cases:
-    - In marketing materials for technical events, e.g. meetups, hackathons, conferences and workshops that are related to Laravel.
+    - In marketing materials for technical events, e.g. meetups, hackathons, conferences and workshops that are related to PHP or FakerPHP.
     - In open source projects related to Laravel.
     - In technical articles/videos/books/papers for educational purposes.
     - To illustrate a commercial product.
